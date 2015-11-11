@@ -1,0 +1,2 @@
+DELETE FROM Marks 
+WHERE (mk_smcode = '631D9AED-0228-4163-B3C9-D786D242FB9F') AND (mk_Mounth = 3);

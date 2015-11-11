@@ -1,0 +1,8 @@
+*.iml
+*.csv
+*.exe
+*.~*
+/tmp/
+/Reports/temp/
+/target/
+.idea/
